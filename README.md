@@ -1,4 +1,4 @@
-<h1 align="center"><img src= "https://yt3.ggpht.com/a/AATXAJwoG_Uovs0cztfwDrvzJYvbnxQbfZomtR5JO7Yt=s900-c-k-c0xffffffff-no-rj-mo" style="width: 65px; height: 50px;">Практические и лабораторные работы по ER diagrams <img src= "https://free-images.com/or/f238/smiley_crazy_svg.jpghttps://yt3.ggpht.com/ytc/AKedOLRpD1FABamz5TYKn-GgQenl34ahirq56msj-QjX=s900-c-k-c0x00ffffff-no-rj)" style="width: 50px; height: 50px;">
+<h1 align="center"><img src= "https://yt3.ggpht.com/a/AATXAJwoG_Uovs0cztfwDrvzJYvbnxQbfZomtR5JO7Yt=s900-c-k-c0xffffffff-no-rj-mo" style="width: 65px; height: 50px;">Практические и лабораторные работы по ER diagrams <img src= "https://yt3.ggpht.com/ytc/AKedOLRpD1FABamz5TYKn-GgQenl34ahirq56msj-QjX=s900-c-k-c0x00ffffff-no-rj" style="width: 50px; height: 50px;">
  </h1> 
 <ul> <br>
 Диаграмма «Сущность-связь» (ERD, Entity-Relationship Diagram, ER-диаграмма) – это разновидность блок-схемы, где показано, как разные «сущности» (люди, объекты,
