@@ -1,4 +1,9 @@
-<h1 align="center">Практические и лабораторные работы по ER diagrams <img src= "https://free-images.com/or/f238/smiley_crazy_svg.jpg">
+<h1 align="center">Практические и лабораторные работы по ER diagrams <img src= "https://free-images.com/or/f238/smiley_crazy_svg.jpg"><style>
+ img{
+ width: 100px;
+ height: 50px;
+ }
+ </style>
  </h1> 
 <ul> <br>
 Диаграмма «Сущность-связь» (ERD, Entity-Relationship Diagram, ER-диаграмма) – это разновидность блок-схемы, где показано, как разные «сущности» (люди, объекты,
